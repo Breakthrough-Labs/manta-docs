@@ -7,7 +7,7 @@ export default function Navbar() {
   return (
     <NavbarLayout>
       <NavbarContent />
-      <AskCookbook apiKey="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NWMxOGM1MzA1MjA1MDZmZmEwMDhjMmUiLCJpYXQiOjE3MDcxODMxODcsImV4cCI6MjAyMjc1OTE4N30.diwQUey2v9RLd7MWuzI4Uw4ayhLKaditIfa062Sc2YQ" />
+      <AskCookbook apiKey="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NjRiODgyNWFhNDVjOTc3MDNiM2I5MjUiLCJpYXQiOjE3MTYyMjYwODUsImV4cCI6MjAzMTgwMjA4NX0.WekaDFPvBFAUtWgLxw91WqNya3eO5LQxRnrOGO69lTY" />
     </NavbarLayout>
   );
 }
